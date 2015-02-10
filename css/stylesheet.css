@@ -1,0 +1,15 @@
+p {
+  font-size: 44px;
+  font-family: cursive;
+ 
+}
+h1{
+  font-weight: 900;
+  text-decoration: underline;
+}
+body{
+  background-image: url(http://www.profightdb.com/img/wrestlers/thumbs-600/1414330df8brethart.jpg)
+}
+html{
+  color: white;
+}
